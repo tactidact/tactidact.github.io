@@ -7,6 +7,7 @@ permalink: /about/
 This is a blog about anime, tech and other assorted interests written by [tact](https://twitter.com/tactidact). 
 
 ### Social
+
 - [Twitter](https://twitter.com/tactidact)
 - [Letterboxd](https://letterboxd.com/tactidact)
 - [AniList](https://anilist.co/user/tact/)
