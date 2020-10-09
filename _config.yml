@@ -25,6 +25,7 @@
 #  - post     → blog posts
 
 show_excerpts: true
+excerpt_separator: <!--more-->
 permalink: pretty
 
 title: tact.moe
