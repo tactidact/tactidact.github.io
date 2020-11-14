@@ -13,7 +13,7 @@ Apple's initial Mac Silicon is to be based around its A14 Bionic SoC that's fabr
 
 This has ignited a firestorm[^1] of renewed interest and frenzy around the Mac which in recent years seemed like it'd been left to languish in maintenance mode as Apple turned their affectionate gaze to the much more profitable iPhone and iPad as the future of computing. Now it might just get the rebirth it so rightly deserves.
 
-Apple's A series SoCs have for quite some time now been handily crushing Intel's x86 processors and Qualcomm's ARM SnapDragon SoCs in synthetic benchmarks like Geekbench. So this naturally an extremely exciting prospect and I'm very much looking forward to the kind of performance these SoCs can deliver in a an enclosure with some actual active cooling on it.
+Apple's A series SoCs have for quite some time now been handily crushing Intel's x86 processors and Qualcomm's ARM SnapDragon SoCs in synthetic benchmarks like Geekbench. So this naturally an extremely exciting prospect and I'm very much looking forward to the kind of performance these SoCs can deliver in an enclosure with some actual active cooling on it.
 
 The ability that these new Macs will gain to be able to natively run iPad apps is also a welcome development. No longer will macOS be just the ancestor from whose underpinnings iOS sprang forth and was fashioned and molded into what it is today, but the Mac can now proudly stand at the head of Apple's computers as the superset of all the software architecture that powers their ecosystem.
 
