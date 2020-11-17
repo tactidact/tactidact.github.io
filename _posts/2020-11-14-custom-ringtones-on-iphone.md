@@ -13,7 +13,7 @@ The easiest and my preferred method is to make use of GarageBand on iOS. There a
 
 ## The method
 
-First of all you need to have [GarageBand for iOS](https://apps.apple.com/us/app/garageband/id408709785)[^2] on your phone. Next ensure you have the audio file that you wish to make a ringtone accessible in the Files app. You can do this by just dropping it into iCloud Drive from a Mac or PC or any other device, or if you're running iOS 13 or later, you can download the file directly from a the web in Safari. Your audio file can be an AIFF, WAV, CAF, Apple Loops, AAC, MP3 or MIDI file.
+First of all you need to have [GarageBand for iOS](https://apps.apple.com/us/app/garageband/id408709785) on your phone[^2]. Next ensure you have the audio file that you wish to make a ringtone accessible in the Files app. You can do this by just dropping it into iCloud Drive from a Mac or PC or any other device, or if you're running iOS 13 or later, you can download the file directly from a the web in Safari. Your audio file can be an AIFF, WAV, CAF, Apple Loops, AAC, MP3 or MIDI file.
 
 1. Open GarageBand for iOS and tap "Create Song".
 
@@ -51,7 +51,7 @@ First of all you need to have [GarageBand for iOS](https://apps.apple.com/us/app
 
     ![Exporting as Ringtone...](/assets/images/GarageBand-Exporting-Ringtone.PNG)
 
-9. You can use the imported ringtone for calls, texts or assign it just to a specific contact. You can also just dismiss this by pressing "Done" and go to *Settings → Sounds & Haptics → Ringtone* assign the newly imported ringtone as you like.
+9. You can use the imported ringtone for calls, texts or assign it just to a specific contact. You can also just dismiss this by pressing "Done" and go to *Settings → Sounds & Haptics → Ringtone* and assign the newly imported ringtone as you like.
 
     ![Ringtone Export Successful](/assets/images/GarageBand-Ringtone-Export-Successful.PNG)
 
@@ -61,10 +61,10 @@ First of all you need to have [GarageBand for iOS](https://apps.apple.com/us/app
     <img src="/assets/images/Settings-Sounds-Ringtones.PNG" alt="*Settings → Sounds & Haptics → Ringtone*" width="350"/>
     </p>
 
-And there you go, you now have a custom ringtone imported to your iPhone. Sadly these ringtones that you import do not sync across to all your devices signed into the same Apple ID, but once you have the GarageBand project files in iCloud Drive it's trivially easy to do the same on your iPad or any other device.
+And there you go, you now have a custom ringtone imported to your iPhone. Sadly these ringtones that you import do not sync across to all your devices signed into the same Apple ID, but once you have the GarageBand project files in iCloud Drive it's trivially easy to do so in a few taps on your iPad or any other device.
 
 ---
 
 [^1]: And frankly much more arduous 
 
-[^2]: Which is an approximately a 1.6 GB download, a frankly insane amount of storage to have to dedicate to an app I only keep around to set ringtones on a whim.
+[^2]: Which is approximately a 1.6 GB download, a frankly insane amount of storage to have to dedicate to an app I only keep around to set ringtones on a whim.
