@@ -21,49 +21,47 @@ First of all you need to have [GarageBand for iOS](https://apps.apple.com/us/app
 
 1. Open GarageBand for iOS and tap "Create Song".
 
-    ![Tap "Create Song" in GarageBand](/resources/_gen/images/GarageBand-Create-Song.JPEG)
+    ![Tap "Create Song" in GarageBand](/images/GarageBand-Create-Song.JPEG)
 
 2. Swipe through the options till you find the Audio Recorder section and tap the "Voice" icon.
 
-    ![Tap the "Voice" icon on Audio Recorder](/resources/_gen/images/GarageBand-Audio-Recorder.PNG)
+    ![Tap the "Voice" icon on Audio Recorder](/images/GarageBand-Audio-Recorder.PNG)
 
 3. On the screen that appears tap the timeline editor icon highlighted in the image below. 
 
-    ![Tap the timeline editor icon](/resources/_gen/images/GarageBand-Timeline-Icon.PNG)
+    ![Tap the timeline editor icon](/images/GarageBand-Timeline-Icon.PNG)
 
 4. In the timeline editor view, tap the Loops icon highlighted in the image.
 
-    ![Tap the Loops icon in the timeline editor](/resources/_gen/images/GarageBand-Timeline-Loops-Icon.PNG)
+    ![Tap the Loops icon in the timeline editor](/images/GarageBand-Timeline-Loops-Icon.PNG)
 
 5. Tap "Browse items from the Files app". You can also clip a portion of a song from the Music app from your locally synced music. Once the clip you've selected appears in this menu, you can tap and hold the file and drag it onto the timeline.
 
-    ![Tap the "Browse items from the Files app"](/resources/_gen/images/GarageBand-Browse-Files.PNG)
+    ![Tap the "Browse items from the Files app"](/images/GarageBand-Browse-Files.PNG)
 
 6. Cut/trim the audio as needed and then exit the editor by tapping the inverted chevron in the top left and tapping "My Songs".
 
-    ![Tap the "My Songs"](/resources/_gen/images/GarageBand-My-Songs.PNG)
+    ![Tap the "My Songs"](/images/GarageBand-My-Songs.PNG)
 
 7. Tap and hold on your newly created GarageBand project file and tap "Share".
 
-    ![Tap and hold project file and tap "Share"](/resources/_gen/images/GarageBand-Tap-Share.PNG)
+    ![Tap and hold project file and tap "Share"](/images/GarageBand-Tap-Share.PNG)
 
 8. Tap "Ringtone" from the options presented, name it and hit "Export".
 
-    ![Tap "Ringtone"](/resources/_gen/images/GarageBand-Tap-Ringtone.PNG)
+    ![Tap "Ringtone"](/images/GarageBand-Tap-Ringtone.PNG)
 
-    ![Name and tap "Export"](/resources/_gen/images/GarageBand-Tap-Export.PNG)
+    ![Name and tap "Export"](/images/GarageBand-Tap-Export.PNG)
 
-    ![Exporting as Ringtone...](/resources/_gen/images/GarageBand-Exporting-Ringtone.PNG)
+    ![Exporting as Ringtone...](/images/GarageBand-Exporting-Ringtone.PNG)
 
 9. You can use the imported ringtone for calls, texts or assign it just to a specific contact. You can also just dismiss this by pressing "Done" and go to *Settings → Sounds & Haptics → Ringtone* and assign the newly imported ringtone as you like.
 
-    ![Ringtone Export Successful](/resources/_gen/images/GarageBand-Ringtone-Export-Successful.PNG)
+    ![Ringtone Export Successful](/images/GarageBand-Ringtone-Export-Successful.PNG)
 
-    ![Assign ringtone](/resources/_gen/images/GarageBand-Assign-Ringtone.PNG)
+    ![Assign ringtone](/images/GarageBand-Assign-Ringtone.PNG)
 
-    <p align="center">
-    <img src="/resources/_gen/images/Settings-Sounds-Ringtones.PNG" alt="*Settings → Sounds & Haptics → Ringtone*" width="350"/>
-    </p>
+    ![*Settings → Sounds & Haptics → Ringtone*](/images/Settings-Sounds-Ringtones.PNG)
 
 And there you go, you now have a custom ringtone imported to your iPhone. Sadly these ringtones that you import do not sync across to all your devices signed into the same Apple ID, but once you have the GarageBand project files in iCloud Drive it's trivially easy to do so in a few taps on your iPad or any other device.
 
