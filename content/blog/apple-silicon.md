@@ -3,9 +3,9 @@ title: "Apple Silicon"
 date: 2020-10-10T03:28:08+05:00
 slug: ""
 description: ""
-keywords: [apple, silicon]
+keywords: []
 draft: false
-tags: []
+tags: [apple, silicon]
 math: false
 toc: false
 ---
