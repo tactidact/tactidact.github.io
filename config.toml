@@ -7,6 +7,9 @@ languageCode = "en-us"
 baseURL = "https://tact.moe/"
 copyright = "© tactidact {year}"
 
+[author]
+    name = "tactidact"
+
 # Add your Disqus shortname here.
 # disqusShortname = ""
 
