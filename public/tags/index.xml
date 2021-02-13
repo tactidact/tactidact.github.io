@@ -6,6 +6,11 @@
     <description>Recent content in Tags on tact.moe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© tactidact {year}</copyright><atom:link href="https://tact.moe/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© tactidact {year}</copyright>
+    <lastBuildDate>Sat, 14 Nov 2020 13:20:40 +0500</lastBuildDate>
+    
+	<atom:link href="https://tact.moe/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

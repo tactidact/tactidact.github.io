@@ -7,7 +7,117 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© tactidact {year}</copyright>
-    <lastBuildDate>Tue, 15 Sep 2020 18:06:00 +0500</lastBuildDate><atom:link href="https://tact.moe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2020 13:20:40 +0500</lastBuildDate>
+    
+	<atom:link href="https://tact.moe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting Custom Ringtones on iPhone</title>
+      <link>https://tact.moe/2020/11/14/custom-ringtones-on-iphone/</link>
+      <pubDate>Sat, 14 Nov 2020 13:20:40 +0500</pubDate>
+      
+      <guid>https://tact.moe/2020/11/14/custom-ringtones-on-iphone/</guid>
+      <description>&lt;p&gt;If you have an iPhone and want to set a custom ringtone, there are a few ways to accomplish this, none of them however are logical or sane. The method outlined here also works on iPad, iPod Touch or any other iOS device and should apply to anything running iOS 12 through to 14 or later.&lt;/p&gt;
+&lt;p&gt;The easiest and my preferred method is to make use of GarageBand on iOS. There are other methods such as using Finder on macOS or iTunes on Windows, but those require that you either have your phone synced to that specific computer or that you have the &amp;ldquo;Manually manage media&amp;rdquo; setting toggled on for your iPhone in iTunes. And since iTunes is going the way of the dodo, that particular&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; method may not be around for much longer.&lt;/p&gt;
+&lt;h2 id=&#34;the-method&#34;&gt;The method&lt;/h2&gt;
+&lt;p&gt;First of all you need to have &lt;a href=&#34;https://apps.apple.com/us/app/garageband/id408709785&#34; 
+  
+   target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34; 
+&gt;GarageBand for iOS&lt;/a&gt;
+ on your phone&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. Next ensure you have the audio file that you wish to make a ringtone accessible in the Files app. You can do this by just dropping it into iCloud Drive from a Mac or PC or any other device, or if you&amp;rsquo;re running iOS 13 or later, you can download the file directly from a the web in Safari. Your audio file can be an AIFF, WAV, CAF, Apple Loops, AAC, MP3 or MIDI file.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Open GarageBand for iOS and tap &amp;ldquo;Create Song&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Create-Song.JPEG&#34; alt=&#34;Tap &amp;ldquo;Create Song&amp;rdquo; in GarageBand&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Swipe through the options till you find the Audio Recorder section and tap the &amp;ldquo;Voice&amp;rdquo; icon.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Audio-Recorder.PNG&#34; alt=&#34;Tap the &amp;ldquo;Voice&amp;rdquo; icon on Audio Recorder&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;On the screen that appears tap the timeline editor icon highlighted in the image below.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Timeline-Icon.PNG&#34; alt=&#34;Tap the timeline editor icon&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the timeline editor view, tap the Loops icon highlighted in the image.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Timeline-Loops-Icon.PNG&#34; alt=&#34;Tap the Loops icon in the timeline editor&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tap &amp;ldquo;Browse items from the Files app&amp;rdquo;. You can also clip a portion of a song from the Music app from your locally synced music. Once the clip you&amp;rsquo;ve selected appears in this menu, you can tap and hold the file and drag it onto the timeline.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Browse-Files.PNG&#34; alt=&#34;Tap the &amp;ldquo;Browse items from the Files app&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cut/trim the audio as needed and then exit the editor by tapping the inverted chevron in the top left and tapping &amp;ldquo;My Songs&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-My-Songs.PNG&#34; alt=&#34;Tap the &amp;ldquo;My Songs&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tap and hold on your newly created GarageBand project file and tap &amp;ldquo;Share&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Tap-Share.PNG&#34; alt=&#34;Tap and hold project file and tap &amp;ldquo;Share&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tap &amp;ldquo;Ringtone&amp;rdquo; from the options presented, name it and hit &amp;ldquo;Export&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Tap-Ringtone.PNG&#34; alt=&#34;Tap &amp;ldquo;Ringtone&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Tap-Export.PNG&#34; alt=&#34;Name and tap &amp;ldquo;Export&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Exporting-Ringtone.PNG&#34; alt=&#34;Exporting as Ringtone&amp;hellip;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can use the imported ringtone for calls, texts or assign it just to a specific contact. You can also just dismiss this by pressing &amp;ldquo;Done&amp;rdquo; and go to &lt;em&gt;Settings → Sounds &amp;amp; Haptics → Ringtone&lt;/em&gt; and assign the newly imported ringtone as you like.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Ringtone-Export-Successful.PNG&#34; alt=&#34;Ringtone Export Successful&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/GarageBand-Assign-Ringtone.PNG&#34; alt=&#34;Assign ringtone&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tact.moe/images/Settings-Sounds-Ringtones.PNG&#34; alt=&#34;Settings → Sounds &amp; Haptics → Ringtone&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;And there you go, you now have a custom ringtone imported to your iPhone. Sadly these ringtones that you import do not sync across to all your devices signed into the same Apple ID, but once you have the GarageBand project files in iCloud Drive it&amp;rsquo;s trivially easy to do so in a few taps on your iPad or any other device.&lt;/p&gt;
+&lt;hr&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;And frankly much more arduous &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Which is approximately a 1.6 GB download, a frankly insane amount of storage to have to dedicate to an app I only keep around to set ringtones on a whim. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;</description> 
+    </item>
+    
+    <item>
+      <title>Apple Silicon</title>
+      <link>https://tact.moe/2020/10/10/apple-silicon/</link>
+      <pubDate>Sat, 10 Oct 2020 03:28:08 +0500</pubDate>
+      
+      <guid>https://tact.moe/2020/10/10/apple-silicon/</guid>
+      <description>&lt;p&gt;At WWDC 2020, Apple announced the transition of the Mac from Intel processors to to their own &amp;ldquo;Apple Silicon&amp;rdquo; processors, the same kind as the ARM based chips that power the iPhone and iPad. They also commited to shipping their first Mac with these chips before the end of 2020 and said that they intend the transition to last two years.&lt;/p&gt;
+&lt;p&gt;Apple&amp;rsquo;s initial Mac Silicon is to be based around its A14 Bionic SoC that&amp;rsquo;s fabricated on TSMC&amp;rsquo;s 5nm process and debuted in their 4th generation iPad Air and will feature in the upcoming 2020 iPhones.&lt;/p&gt;
+&lt;p&gt;This has ignited a firestorm&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; of renewed interest and frenzy around the Mac which in recent years seemed like it&amp;rsquo;d been left to languish in maintenance mode as Apple turned their affectionate gaze to the much more profitable iPhone and iPad as the future of computing. Now it might just get the rebirth it so rightly deserves.&lt;/p&gt;
+&lt;p&gt;Apple&amp;rsquo;s A series SoCs have for quite some time now been handily crushing Intel&amp;rsquo;s x86 processors and Qualcomm&amp;rsquo;s ARM SnapDragon SoCs in synthetic benchmarks like Geekbench. So this naturally an extremely exciting prospect and I&amp;rsquo;m very much looking forward to the kind of performance these SoCs can deliver in an enclosure with some actual active cooling on it.&lt;/p&gt;
+&lt;p&gt;The ability that these new Macs will gain to be able to natively run iPad apps is also a welcome development. No longer will macOS be just the ancestor from whose underpinnings iOS sprang forth and was fashioned and molded into what it is today, but the Mac can now proudly stand at the head of Apple&amp;rsquo;s computers as the superset of all the software architecture that powers their ecosystem.&lt;/p&gt;
+&lt;p&gt;There is of course the concern as to whether Rosetta 2 will be sufficiently performant on Apple Silicon when running apps and utilities that are still x86. But early hush hush nods from developers who have access to the DTK suggest that things are looking up in that department and that near native performance can be expected for most tasks. The loss of Boot Camp and virtualization of x86 Windows on these new Macs will for now be a bit of a bummer and it&amp;rsquo;s yet to be seen whether Microsoft&amp;rsquo;s push for Windows on ARM and its x86 emulation layers will be as smooth sailing as Big Sur and Rosetta 2 seem like they might just be.&lt;/p&gt;
+&lt;p&gt;Apple is expected per &lt;a href=&#34;https://www.macrumors.com/2020/10/09/apple-silicon-mac-release-timeframe/&#34; 
+  
+   target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34; 
+&gt;Mark Gurman at Bloomberg&lt;/a&gt;
+ to debut the first Apple Silicon Mac, which is to be a Macbook, at an event in November&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. Rumors suggest that first in line to get the new silicon will likely be either the MacBook Air or a revival of the 12&amp;quot; MacBook, now finally matched with a processor that can handle itself in its razor thin and feather light chasis. We may also get an update to the 13&amp;quot; MacBook Pro. I&amp;rsquo;ll be very intrigued to see if Apple keeps up the dichotomoy in that particular Mac with a 2 port option as a more affordable but slightly lower power version and a 4 port version at a much higher starting price.&lt;/p&gt;
+&lt;p&gt;Whatever Apple debuts, my one and only plea and hope for them is that they learned their lesson with the 2015 12&amp;quot; MacBook. And that whether they choose it or the Air to be the new consumer Mac laptop, they grace it with &lt;strong&gt;ports&lt;/strong&gt; and not just in the singular&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;em&gt;geddit?&lt;/em&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Come on give it to me already! &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Oh and maybe don&amp;rsquo;t make the jump up to 16 gigs of RAM and a 512 gig SSD cost $400 or more kthxbye &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;</description> 
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>https://tact.moe/2020/09/15/first-post/</link>
@@ -18,7 +128,8 @@
   
    target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34; 
 &gt;tact&lt;/a&gt;
- and I intend to post to this blog &lt;em&gt;semi-regularly&lt;/em&gt;, or whenever I have something to say I guess.&lt;/p&gt;</description>
+ and I intend to post to this blog &lt;em&gt;semi-regularly&lt;/em&gt;, or whenever I have something to say I guess.&lt;/p&gt;
+&lt;p&gt;Au revoir for now 👋, check here for new posts soon™ 🤞.&lt;/p&gt;</description> 
     </item>
     
   </channel>

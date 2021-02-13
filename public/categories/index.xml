@@ -6,6 +6,10 @@
     <description>Recent content in Categories on tact.moe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© tactidact {year}</copyright><atom:link href="https://tact.moe/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© tactidact {year}</copyright>
+    
+	<atom:link href="https://tact.moe/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

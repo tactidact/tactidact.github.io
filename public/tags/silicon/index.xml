@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>silicon on tact.moe</title>
+    <link>https://tact.moe/tags/silicon/</link>
+    <description>Recent content in silicon on tact.moe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© tactidact {year}</copyright>
+    <lastBuildDate>Sat, 10 Oct 2020 03:28:08 +0500</lastBuildDate>
+    
+	<atom:link href="https://tact.moe/tags/silicon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apple Silicon</title>
+      <link>https://tact.moe/2020/10/10/apple-silicon/</link>
+      <pubDate>Sat, 10 Oct 2020 03:28:08 +0500</pubDate>
+      
+      <guid>https://tact.moe/2020/10/10/apple-silicon/</guid>
+      <description>&lt;p&gt;At WWDC 2020, Apple announced the transition of the Mac from Intel processors to to their own &amp;ldquo;Apple Silicon&amp;rdquo; processors, the same kind as the ARM based chips that power the iPhone and iPad. They also commited to shipping their first Mac with these chips before the end of 2020 and said that they intend the transition to last two years.&lt;/p&gt;
+&lt;p&gt;Apple&amp;rsquo;s initial Mac Silicon is to be based around its A14 Bionic SoC that&amp;rsquo;s fabricated on TSMC&amp;rsquo;s 5nm process and debuted in their 4th generation iPad Air and will feature in the upcoming 2020 iPhones.&lt;/p&gt;
+&lt;p&gt;This has ignited a firestorm&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; of renewed interest and frenzy around the Mac which in recent years seemed like it&amp;rsquo;d been left to languish in maintenance mode as Apple turned their affectionate gaze to the much more profitable iPhone and iPad as the future of computing. Now it might just get the rebirth it so rightly deserves.&lt;/p&gt;
+&lt;p&gt;Apple&amp;rsquo;s A series SoCs have for quite some time now been handily crushing Intel&amp;rsquo;s x86 processors and Qualcomm&amp;rsquo;s ARM SnapDragon SoCs in synthetic benchmarks like Geekbench. So this naturally an extremely exciting prospect and I&amp;rsquo;m very much looking forward to the kind of performance these SoCs can deliver in an enclosure with some actual active cooling on it.&lt;/p&gt;
+&lt;p&gt;The ability that these new Macs will gain to be able to natively run iPad apps is also a welcome development. No longer will macOS be just the ancestor from whose underpinnings iOS sprang forth and was fashioned and molded into what it is today, but the Mac can now proudly stand at the head of Apple&amp;rsquo;s computers as the superset of all the software architecture that powers their ecosystem.&lt;/p&gt;
+&lt;p&gt;There is of course the concern as to whether Rosetta 2 will be sufficiently performant on Apple Silicon when running apps and utilities that are still x86. But early hush hush nods from developers who have access to the DTK suggest that things are looking up in that department and that near native performance can be expected for most tasks. The loss of Boot Camp and virtualization of x86 Windows on these new Macs will for now be a bit of a bummer and it&amp;rsquo;s yet to be seen whether Microsoft&amp;rsquo;s push for Windows on ARM and its x86 emulation layers will be as smooth sailing as Big Sur and Rosetta 2 seem like they might just be.&lt;/p&gt;
+&lt;p&gt;Apple is expected per &lt;a href=&#34;https://www.macrumors.com/2020/10/09/apple-silicon-mac-release-timeframe/&#34; 
+  
+   target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34; 
+&gt;Mark Gurman at Bloomberg&lt;/a&gt;
+ to debut the first Apple Silicon Mac, which is to be a Macbook, at an event in November&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. Rumors suggest that first in line to get the new silicon will likely be either the MacBook Air or a revival of the 12&amp;quot; MacBook, now finally matched with a processor that can handle itself in its razor thin and feather light chasis. We may also get an update to the 13&amp;quot; MacBook Pro. I&amp;rsquo;ll be very intrigued to see if Apple keeps up the dichotomoy in that particular Mac with a 2 port option as a more affordable but slightly lower power version and a 4 port version at a much higher starting price.&lt;/p&gt;
+&lt;p&gt;Whatever Apple debuts, my one and only plea and hope for them is that they learned their lesson with the 2015 12&amp;quot; MacBook. And that whether they choose it or the Air to be the new consumer Mac laptop, they grace it with &lt;strong&gt;ports&lt;/strong&gt; and not just in the singular&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;em&gt;geddit?&lt;/em&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Come on give it to me already! &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Oh and maybe don&amp;rsquo;t make the jump up to 16 gigs of RAM and a 512 gig SSD cost $400 or more kthxbye &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;</description> 
+    </item>
+    
+  </channel>
+</rss>

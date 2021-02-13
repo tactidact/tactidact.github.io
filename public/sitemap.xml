@@ -4,12 +4,47 @@
   
   <url>
     <loc>https://tact.moe/</loc>
-    <lastmod>2020-09-15T18:06:00+05:00</lastmod>
+    <lastmod>2020-11-14T13:20:40+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tact.moe/tags/apple/</loc>
+    <lastmod>2020-11-14T13:20:40+05:00</lastmod>
   </url>
   
   <url>
     <loc>https://tact.moe/blog/</loc>
-    <lastmod>2020-09-15T18:06:00+05:00</lastmod>
+    <lastmod>2020-11-14T13:20:40+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tact.moe/tags/iphone/</loc>
+    <lastmod>2020-11-14T13:20:40+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tact.moe/tags/ringtones/</loc>
+    <lastmod>2020-11-14T13:20:40+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tact.moe/2020/11/14/custom-ringtones-on-iphone/</loc>
+    <lastmod>2020-11-14T13:20:40+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tact.moe/tags/</loc>
+    <lastmod>2020-11-14T13:20:40+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tact.moe/2020/10/10/apple-silicon/</loc>
+    <lastmod>2020-10-10T03:28:08+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tact.moe/tags/silicon/</loc>
+    <lastmod>2020-10-10T03:28:08+05:00</lastmod>
   </url>
   
   <url>
@@ -19,10 +54,6 @@
   
   <url>
     <loc>https://tact.moe/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tact.moe/tags/</loc>
   </url>
   
 </urlset>
