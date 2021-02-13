@@ -1,1 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ringtones on tact.moe</title><link>https://tact.moe/tags/ringtones/</link><description>Recent content in ringtones on tact.moe</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© tactidact {year}</copyright><lastBuildDate>Sat, 14 Nov 2020 13:20:40 +0500</lastBuildDate><atom:link href="https://tact.moe/tags/ringtones/index.xml" rel="self" type="application/rss+xml"/><item><title>Setting Custom Ringtones on iPhone</title><link>https://tact.moe/2020/11/14/custom-ringtones-on-iphone/</link><pubDate>Sat, 14 Nov 2020 13:20:40 +0500</pubDate><guid>https://tact.moe/2020/11/14/custom-ringtones-on-iphone/</guid><description>&lt;p>If you have an iPhone and want to set a custom ringtone, there are a few ways to accomplish this, none of them however are logical or sane. The method outlined here also works on iPad, iPod Touch or any other iOS device and should apply to anything running iOS 12 through to 14 or later.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ringtones on tact.moe</title><link>https://tact.moe/tags/ringtones/</link><description>Recent content in ringtones on tact.moe</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© tactidact {year}</copyright><lastBuildDate>Sat, 14 Nov 2020 13:20:40 +0500</lastBuildDate><atom:link href="https://tact.moe/tags/ringtones/index.xml" rel="self" type="application/rss+xml"/><item><title>Setting Custom Ringtones on iPhone</title><link>https://tact.moe/2020/11/14/custom-ringtones-on-iphone/</link><pubDate>Sat, 14 Nov 2020 13:20:40 +0500</pubDate><guid>https://tact.moe/2020/11/14/custom-ringtones-on-iphone/</guid><description>&lt;p>If you have an iPhone and want to set a custom ringtone, there are a few ways to accomplish this, none of them however are logical or sane. The method outlined here also works on iPad, iPod Touch or any other iOS device and should apply to anything running iOS 12 through to 14 or later.&lt;/p>
+&lt;p>The easiest and my preferred method is to make use of GarageBand on iOS. There are other methods such as using Finder on macOS or iTunes on Windows, but those require that you either have your phone synced to that specific computer or that you have the &amp;ldquo;Manually manage media&amp;rdquo; setting toggled on for your iPhone in iTunes. And since iTunes is going the way of the dodo, that particular&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> method may not be around for much longer.&lt;/p>
+&lt;h2 id="the-method">The method&lt;/h2>
+&lt;p>First of all you need to have &lt;a href="https://apps.apple.com/us/app/garageband/id408709785"
+target="_blank" rel="noreferrer noopener"
+>GarageBand for iOS&lt;/a>
+on your phone&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>. Next ensure you have the audio file that you wish to make a ringtone accessible in the Files app. You can do this by just dropping it into iCloud Drive from a Mac or PC or any other device, or if you&amp;rsquo;re running iOS 13 or later, you can download the file directly from a the web in Safari. Your audio file can be an AIFF, WAV, CAF, Apple Loops, AAC, MP3 or MIDI file.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Open GarageBand for iOS and tap &amp;ldquo;Create Song&amp;rdquo;.&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Create-Song.JPEG" alt="Tap &amp;ldquo;Create Song&amp;rdquo; in GarageBand">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Swipe through the options till you find the Audio Recorder section and tap the &amp;ldquo;Voice&amp;rdquo; icon.&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Audio-Recorder.PNG" alt="Tap the &amp;ldquo;Voice&amp;rdquo; icon on Audio Recorder">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>On the screen that appears tap the timeline editor icon highlighted in the image below.&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Timeline-Icon.PNG" alt="Tap the timeline editor icon">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>In the timeline editor view, tap the Loops icon highlighted in the image.&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Timeline-Loops-Icon.PNG" alt="Tap the Loops icon in the timeline editor">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tap &amp;ldquo;Browse items from the Files app&amp;rdquo;. You can also clip a portion of a song from the Music app from your locally synced music. Once the clip you&amp;rsquo;ve selected appears in this menu, you can tap and hold the file and drag it onto the timeline.&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Browse-Files.PNG" alt="Tap the &amp;ldquo;Browse items from the Files app&amp;rdquo;">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Cut/trim the audio as needed and then exit the editor by tapping the inverted chevron in the top left and tapping &amp;ldquo;My Songs&amp;rdquo;.&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-My-Songs.PNG" alt="Tap the &amp;ldquo;My Songs&amp;rdquo;">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tap and hold on your newly created GarageBand project file and tap &amp;ldquo;Share&amp;rdquo;.&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Tap-Share.PNG" alt="Tap and hold project file and tap &amp;ldquo;Share&amp;rdquo;">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tap &amp;ldquo;Ringtone&amp;rdquo; from the options presented, name it and hit &amp;ldquo;Export&amp;rdquo;.&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Tap-Ringtone.PNG" alt="Tap &amp;ldquo;Ringtone&amp;rdquo;">&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Tap-Export.PNG" alt="Name and tap &amp;ldquo;Export&amp;rdquo;">&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Exporting-Ringtone.PNG" alt="Exporting as Ringtone&amp;hellip;">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You can use the imported ringtone for calls, texts or assign it just to a specific contact. You can also just dismiss this by pressing &amp;ldquo;Done&amp;rdquo; and go to &lt;em>Settings → Sounds &amp;amp; Haptics → Ringtone&lt;/em> and assign the newly imported ringtone as you like.&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Ringtone-Export-Successful.PNG" alt="Ringtone Export Successful">&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/GarageBand-Assign-Ringtone.PNG" alt="Assign ringtone">&lt;/p>
+&lt;p>&lt;img src="https://tact.moe/images/Settings-Sounds-Ringtones.PNG" alt="Settings → Sounds &amp; Haptics → Ringtone">&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>And there you go, you now have a custom ringtone imported to your iPhone. Sadly these ringtones that you import do not sync across to all your devices signed into the same Apple ID, but once you have the GarageBand project files in iCloud Drive it&amp;rsquo;s trivially easy to do so in a few taps on your iPad or any other device.&lt;/p>
+&lt;hr>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>And frankly much more arduous &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>Which is approximately a 1.6 GB download, a frankly insane amount of storage to have to dedicate to an app I only keep around to set ringtones on a whim. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item></channel></rss>
