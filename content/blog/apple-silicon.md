@@ -27,7 +27,6 @@ Apple is expected per [Mark Gurman at Bloomberg](https://www.macrumors.com/2020/
 
 Whatever Apple debuts, my one and only plea and hope for them is that they learned their lesson with the 2015 12" MacBook. And that whether they choose it or the Air to be the new consumer Mac laptop, they grace it with **ports** and not just in the singular[^3].
 
----
 
 [^1]: *geddit?*
 

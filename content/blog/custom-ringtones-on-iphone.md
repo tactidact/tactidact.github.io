@@ -65,7 +65,6 @@ First of all you need to have [GarageBand for iOS](https://apps.apple.com/us/app
 
 And there you go, you now have a custom ringtone imported to your iPhone. Sadly these ringtones that you import do not sync across to all your devices signed into the same Apple ID, but once you have the GarageBand project files in iCloud Drive it's trivially easy to do so in a few taps on your iPad or any other device.
 
----
 
 [^1]: And frankly much more arduous 
 

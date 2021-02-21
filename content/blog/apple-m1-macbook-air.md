@@ -42,7 +42,7 @@ Apple Silicon has brought to the Mac one of the core elements that made the iPho
 
 Nothing I've seen in Intel's 10th generation lineup of thin and light laptops that I've tried comes close to even capturing this feeling. Don't get me wrong, Intel laptops are also very good and capable computers. But at this point I think I'm led to the conclusion that at least as far as low power silicon is concerned, ARM is the answer. Apple has handily bested Intel in this segment, and I can't wait to see what Qualcomm, AMD and others that are foraying into the ARM laptop space can come up with[^3]. Not to mention what Apple has in the can for the next stage of their transition...
 
----
+
 [^1]: [Is Apple silicon ready?](https://isapplesiliconready.com) is an excellent resource for quickly checking at a glance if apps or packages run natively, under Rosetta 2 or not at all on Apple Silicon. Since it is community run, it can sometimes be a bit behind so always double check the developer's website if you can too for the most up to date information.
 
 [^2]: Similarly to how the headphone jack was removed on the iPhone 7 to suffer the negative round of headlines and press early rather than with next year's iPhone X.
