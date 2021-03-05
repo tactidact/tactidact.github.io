@@ -1,9 +1,20 @@
+{{ $img := imageConfig (add "/static" (.Destination | safeURL)) }}
 <style>figcaption {text-align: center;}</style>
+
 {{ if .Title }}
   <figure>
-    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+    <img 
+      loading="lazy"
+      src="{{ .Destination | safeURL }}"
+      alt="{{ .Text }}"
+
+    />
     <figcaption>{{ .Title }}</figcaption>
   </figure>
 {{ else }}
-  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+  <img 
+    loading="lazy"
+    src="{{ .Destination | safeURL }}"
+    alt="{{ .Text }}"
+  />
 {{ end }}
