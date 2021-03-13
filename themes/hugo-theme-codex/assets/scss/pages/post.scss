@@ -40,8 +40,12 @@ $tocBreakpoint: 1024px;
 
   blockquote {
     width: 95%;
-    margin: 0 auto;
+    margin: 1em 1em 1em 1em;
     font-size: 1rem;
+    padding: 1em 1em;
+    border-radius: 6px;
+    background: lighten($primary, 42%);
+    color: $primary;
 
     a {
       color: $darkGrey;

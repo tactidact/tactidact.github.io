@@ -75,7 +75,7 @@ ol {
   }
 }
 
-blockquote {
+blockquote p {
   &::before {
     position: absolute;
     content: "\201C";
@@ -89,10 +89,9 @@ blockquote {
     color: darken($white, 7%);
   }
 
-  margin-top: $leading;
-  margin-bottom: $leading;
+  margin: 0.01em 0.01em 0.01em 0.01em;
   line-height: $leading;
-  color: $black;
+  color: $primary;
 
   cite {
     &::before {
