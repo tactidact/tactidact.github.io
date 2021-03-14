@@ -5,7 +5,7 @@ slug: ""
 description: ""
 keywords: []
 draft: false
-tags: [apple, silicon, m1, macbook, air]
+tags: [Apple, Apple Silicon, Apple M1, MacBook, MacBook Air]
 math: false
 toc: false
 ---

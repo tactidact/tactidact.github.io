@@ -5,7 +5,7 @@ slug: ""
 description: ""
 keywords: []
 draft: false
-tags: [apple, iphone, ringtones]
+tags: [Apple, iOS, iPhone, iPad, Ringtones]
 math: false
 toc: false
 ---

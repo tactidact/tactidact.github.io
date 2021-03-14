@@ -5,7 +5,7 @@ slug: ""
 description: ""
 keywords: []
 draft: false
-tags: [apple, silicon]
+tags: [Apple, Apple Silicon]
 math: false
 toc: false
 ---
