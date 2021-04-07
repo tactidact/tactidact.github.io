@@ -5,7 +5,7 @@ slug: ""
 description: ""
 keywords: []
 draft: true
-tags: [anime, seasonal, winter, 2021]
+tags: [anime, seasonal, winter]
 math: false
 toc: false
 ---      
