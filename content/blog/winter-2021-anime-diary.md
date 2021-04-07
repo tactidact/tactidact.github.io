@@ -5,7 +5,7 @@ slug: ""
 description: ""
 keywords: []
 draft: true
-tags: [anime, seasonal, winter, 2021]
+tags: [anime, seasonal, winter]
 math: false
 toc: false
 ---      
@@ -16,18 +16,16 @@ Welcome to the first seasonal anime diary. I'll be making these posts once every
 
 Any shows that have their titles suffixed with the 💮 emoji have my strongest recommendation.
 
-## Horimiya
-
-> ⚠️ CW: Depression and flashbacks to thoughts of       self-harm
-
-![Horimiya](/images/winter-2021-anime-diary/horimiya.png)
-
-
 
 ## Yuru Camp△ SEASON 2 💮
 
 ![Yuru Camp△ Season 2](/images/winter-2021-anime-diary/yuru-camp-s2.png)
 
+A wonderful window into the world of casual camping, [Yuru Camp△](https://en.wikipedia.org/wiki/Laid-Back_Camp) takes us on a journey across various campsites of Japan with its cast of young middle school students. Nadeshiko, a recent newcomer to the local town befriends the girls of the Outdoor Club, Aoi and Chiaki, and the solitary camper Rin. And through them she discovers the pleasures of this past time.
+
+Traveling to peaceful and relaxing locations, this show distills the feeling of sitting down on a porch with a hot cup of cocoa on a lovely fall day. The nature visuals are striking and sublime, the characters energetic and thoughtful with chemistry and friendship that is truly wholesome and supportive. Season 1 comes in strong with a gentle wave of warmth and comfort that hooked me instantly, enveloping you in the feeling of joy that something as simple as a cup of instant noodles or some piping hot campfire cooking on a cool night can bring. It also incorporates elements of travelogue to introduce the viewer to the various equipment and tools that campers make use of, along with introducing you to best practices at campgrounds. Every episode is topped off with an end card that lists off pointers for some common camping etiquette and campsite rules.
+
+This advice is usually delivered via narration from [Ōtsuka Akio](https://en.wikipedia.org/wiki/Akio_Ōtsuka) in his usual dulcet tones. Ōtsuka also plays Rin's grandfather in the show, who inspired her to pursue camping and her travels around the country to various campsites. With beautiful scenery, calming music and characters that steal your heart, anyone seeking a wonderfully charming and highly relaxing anime to watch would do well to enjoy both seasons of *Yuru Camp△*  and the *Heya Camp* shorts that aired in between seasons.
 
 
 ## Wonder Egg Priority 💮
@@ -51,35 +49,31 @@ For a much lengthier and in-depth breakdown, I'd encourage you to read [kViN's](
 [Wonder Egg Priority – Production Notes 04-07](https://blog.sakugabooru.com/2021/02/27/wonder-egg-priority-production-notes-04-07/)
 
 
-
 ## Mushoku Tensei: Isekai Ittara Honki Dasu
-> ⚠️ CW: Trauma, abuse, bullying, sexual  objectification of women
+> ⚠️ CW: Trauma, abuse, bullying, sexual  objectification
+
+![Mushoku Tensei](/images/winter-2021-anime-diary/mushoku-tensei.png)
 
 Based on the wildly popular web novel and the light novel adapted from it, [*Mushoku Tensei*](https://en.wikipedia.org/wiki/Mushoku_Tensei) seems at first to be another bog standard [isekai](https://en.wikipedia.org/wiki/Isekai),[^2] and really it is just that. But what sets it apart from its ilk is that it takes the time to really establish its protagonist, Rudeus, and the world without rushing straight into the adventure part of the journey. Giving us a glimpse of how an adult reborn into a fantasy world with their memories intact would navigate it through careful exploration and experimentation over the course of their life. 
 
 The world building and magic system are interesting and refreshingly eschew the video game metaphor that has become prevalent in isekai of recent years. The cast of characters is also quite charming and feel fully formed like they have a life and thoughts of their own beyond simply being a foil for the protagonist's growth and development. The art design and animation also kicks up the gear and really impresses when it needs to in the early episodes to leave a solid impression. The water physics and the direction of the scene in episode 1 where Rudeus casts his first intermediate tier water spell as a child is [a sight to behold](/images/winter-2021-anime-diary/rudy-casts-water-magic.mp4).
 
-I was in fact so taken with the universe of this show that I ended up over the course of a week and a half reading all nine volumes of the light novel that have been translated to English so far. The books really lend themselves well to incorporating the viewpoints of secondary characters and interweaving them with the main narrative.
+I was in fact so taken with the universe of this show that I ended up over the course of a week and a half reading all ten volumes of the light novel that have been translated to English so far. The books really lend themselves well to incorporating the viewpoints of secondary characters and interweaving them with the main narrative and building a very concrete sense of the universe in the reader's mind.
 
-The protagonist does have a tendency to be extremely lewd and forthright with his sexual objectification of women, which is to be frank very disturbing and straight up creepy. A core element of this story is that he was a hikkikomori NEET as a result of being abused and violently bullied in middle school, thus in his past life he's grown to be a stunted and twisted person lacking any semblance of true empathy for other people. While this is important context and the protagonist does appear at least over the course of the series to grow beyond this to an extent, it's still disconcerting and dismaying to come across as a viewer in an otherwise really fun and excellent show. Despite this however I do find myself having fond feelings towards and relating to significant aspects of Rudeus' personality. 
-
-## Dr. STONE: STONE WARS
-
-
-
-## SK∞
-
+The protagonist does have a tendency to be extremely lewd and forthright with his sexual objectification of women even underage ones, which is to be frank very disturbing and straight up creepy. A core element of this story is that he was a hikkikomori NEET as a result of being abused and violently bullied in middle school, thus in his past life he's grown to be a stunted and twisted person lacking any semblance of true empathy for other people. While this is important context and the protagonist does appear at least over the course of the series to grow beyond this to an extent, it's still disconcerting and dismaying to come across as a viewer in an otherwise really fun and excellent show. Being horny is cool and great, but sexually objectifying people and non consensually peeping on them or stealing their underwear is reprehensible. Despite these shortcomings however I do find myself having fond feelings towards and relating to certain aspects of Rudeus' personality. A problematic fave indeed.
 
 
 ## Non Non Biyori: Nonstop 💮
 
-![](/images/winter-2021-anime-diary/non-non-biyori-nonstop.png)
+![Non Non Biyori: Nonstop](/images/winter-2021-anime-diary/non-non-biyori-nonstop.png)
 
-*Non Non Biyori* is nonstop bliss. That is all...
+*Non Non Biyori* is nonstop bliss, that is all...
 
-Well to expound a bit on that, this is the third season of [*Non Non Biyori*](https://en.wikipedia.org/wiki/Non_Non_Biyori), the incredibly wholesome adaptation of the manga of the same name. It tells the tales of the daily escapades of an assorted group of schoolchildren of various ages ranging from elementary to high school living and playing in the small village of Asahigaoka. It at times makes me laugh, at other times it makes me want to cry, but always because it presents the mundanity of daily life in an extremely thoughtful and considered repose. It's a prime example of one of the [iyashikei](https://en.wikipedia.org/wiki/Iyashikei) [^3] sub-genre of slice of life anime that I've come to so dearly cherish. Truly every time I watch an episode, I feel I mentally restored and refreshed. It's an incredible tonic to the soul with a wonderful and brilliant cast of characters. Every shot of the verdant village scenery that is interspersed between events may appear mundane at first but it carefully and thoughtfully interposed to punctuate and construct a reverie that calms and soothes the viewer.
+Well to expound a bit on that, this is the third season of [*Non Non Biyori*](https://en.wikipedia.org/wiki/Non_Non_Biyori), the incredibly wholesome adaptation of the manga of the same name. It tells the tales of the daily escapades of an assorted group of schoolchildren of various ages ranging from elementary to high school living and playing in the small village of Asahigaoka. It at times makes me laugh, at other times it makes me want to cry, but always because it presents the mundanity of daily life in an extremely thoughtful and considered repose. 
 
-This series is firmly on the list of shows that I would wholeheartedly recommend to most anyone who is looking for some solace and peace in their lives. I believe it even comes toe to toe with the perennial masterwork of this genre, [*Yotsuba to!*](https://en.wikipedia.org/wiki/Yotsuba%26!).
+It's a prime example of the [iyashikei](https://en.wikipedia.org/wiki/Iyashikei) [^3] sub-genre of slice of life anime that I've come to so dearly cherish. Truly every time I watch an episode, I feel I've been made whole again. It's an incredible tonic to the soul with a wonderful and brilliant cast of characters. Every shot of the verdant village scenery that is interspersed between events may appear mundane at first but are carefully and thoughtfully selected to punctuate and construct a reverie that calms and soothes the viewer.
+
+This series is firmly on the list of shows that I would wholeheartedly recommend to most anyone who is looking for some introspective solace and a good time in their lives.
 
 
 
