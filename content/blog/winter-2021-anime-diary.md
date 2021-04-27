@@ -5,10 +5,10 @@ slug: ""
 description: ""
 keywords: []
 draft: true
-tags: [anime, seasonal, winter]
+tags: [anime, seasonal, winter, 2021]
 math: false
 toc: false
----      
+---
 
 Welcome to the first seasonal anime diary. I'll be making these posts once every season to highlight some of the notable anime that caught my eye in the past season.[^1] To write something about every show I watch would be quite an undertaking, so let's just start with stuff that really left an impression on me. Where appropriate, I will endeavor to include content warnings for the shows themselves.
 
