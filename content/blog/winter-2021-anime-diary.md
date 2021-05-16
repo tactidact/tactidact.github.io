@@ -5,7 +5,7 @@ slug: ""
 description: ""
 keywords: []
 draft: true
-tags: [anime, seasonal, winter, 2021]
+tags: [Anime, Seasonal, Winter, 2021]
 math: false
 toc: false
 ---
@@ -28,7 +28,7 @@ Traveling to peaceful and relaxing locations, this show distills the feeling of 
 This advice is usually delivered via narration from [Ōtsuka Akio](https://en.wikipedia.org/wiki/Akio_Ōtsuka) in his usual dulcet tones. Ōtsuka also plays Rin's grandfather in the show, who inspired her to pursue camping and her travels around the country to various campsites. With beautiful scenery, calming music and characters that steal your heart, anyone seeking a wonderfully charming and highly relaxing anime to watch would do well to enjoy both seasons of *Yuru Camp△*  and the *Heya Camp* shorts that aired in between seasons.
 
 
-## Wonder Egg Priority 💮
+## Wonder Egg Priority
 
 > ⚠️ CW: Suicide, self-harm, abuse, trauma, dealing with grief
 
@@ -38,15 +38,9 @@ This advice is usually delivered via narration from [Ōtsuka Akio](https://en.wi
 
 It is the story of four middle school age girls, whose lives have been marred by abuse and depression. Who have lost friends and those close to them to suicide and are learning to navigate how to go on living. The ways in which this show through its fantastical premise examines and explores the human states and emotions of its four protagonists made a deep impression on me. How it explores the role of abuse in the lives of children and how it impacts their sense of self, is something I've never seen captured before in anime. How they can learn to find something to live for again within themselves and each other and come back from a point of absolute despair and loneliness.
 
-Without going into detail, I can only say that this is a show that will stick with me for a very long time and one that I will think back to often. It is a masterful exploration of the human condition. This show is a delight to the senses, the heart, and the mind all in one. A blend of striking and beautiful action and poignant and impactful story and characters, *Wonder Egg Priority* has left me utterly charmed and smitten.
+It's sad then that the show ends incomplete, having not explored or even made good on the bevy of promises it makes. Looking into the behind the scenes this appears to have been the result of poor scheduling and mismanagment on part of the production comittee. It's for this reason that we got the unexpected mid-season recap episode. The true finale which was pushed off the airing schedule by that recap now appears to be scheduled to [premiere on June 29th](https://twitter.com/WEP_anime/status/1376942895505178626?s=20). 
 
-For a much lengthier and in-depth breakdown, I'd encourage you to read [kViN's](https://twitter.com/Yuyucow) excellent and intensely researched production notes for the show over at Sakuga Blog:
-
-[Wonder Egg Priority – Production Notes 01-02](https://blog.sakugabooru.com/2021/01/24/wonder-egg-priority-production-notes-01-02/)
-
-[Wonder Egg Priority – Production Notes 03](https://blog.sakugabooru.com/2021/01/28/wonder-egg-priority-production-notes-03/)
-
-[Wonder Egg Priority – Production Notes 04-07](https://blog.sakugabooru.com/2021/02/27/wonder-egg-priority-production-notes-04-07/)
+I might thus have to revisit the show at that time when I can evaluate it as a whole.
 
 
 ## Mushoku Tensei: Isekai Ittara Honki Dasu
