@@ -4,7 +4,7 @@ date: 2021-03-17T05:16:54+05:00
 slug: ""
 description: ""
 keywords: []
-draft: true
+draft: false
 tags: [Anime, Seasonal, Winter, 2021]
 math: false
 toc: false
