@@ -1,6 +1,6 @@
 ---
 title: "Spring 2021 Anime Diary"
-date: 2021-09-13 22:30:52 -04:00
+date: 2021-12-15 13:19:49 +05:00
 slug: ""
 description: ""
 keywords: []
